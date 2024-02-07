@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "title": "Vue.js: Assignment",
+      "dueDate": "2024-02-07",
+      "percentComplete": 100
+    },
+    {
+      "id": 2,
+      "title": "Sam's Assignment",
+      "dueDate": "2024-01-25",
+      "percentComplete": 80
+    },
+    {
+      "id": 3,
+      "title": "Angular Portfolio",
+      "dueDate": "2024-01-30",
+      "percentComplete": 100
+    },
+    {
+      "id": 4,
+      "title": "MVC DeckMaster",
+      "dueDate": "2024-02-10",
+      "percentComplete": 70
+    },
+
+    {
+      "id": 5,
+      "title": "Movie App",
+      "dueDate": "2024-02-24",
+      "percentComplete": 70
+    },
+
+    {
+      "id": 6,
+      "title": "Vulcan",
+      "dueDate": "2024-02-24",
+      "percentComplete": 60
+    }
+  ]
+  
