@@ -1,0 +1,12 @@
+The design of the layout was easily spaced out.
+the page was legible.
+
+functionality is working properly
+assignments that are completed are disappearing
+when the toggle is fixed.
+
+Has all data components from the JSON file.
+
+10/10
+
+- Alex Aguilar 
